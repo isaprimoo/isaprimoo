@@ -30,9 +30,8 @@
 </div>
 
 <p align="center">
+<p align="center">🚀 <strong>LINGUAGENS DE PROGRAMAÇÃO</strong></p>
 
-<p align="center"> 
-## 🚀 LINGUAGENS DE PROGRAMAÇÃO
 <p align="center">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
