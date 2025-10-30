@@ -29,29 +29,28 @@
 <br>
 </div>
 
-
 <p align="center">
 
 ## 🚀 LINGUAGENS DE PROGRAMAÇÃO
 <p align="center">
-  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
 ## 🛠️ FERRAMENTAS
 <p align="center">
-  <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Terraform" alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Airflow" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Streamlit" alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Lime Survey" alt="Lime Survey" src="https://www.limesurvey.org/images/logos/logo_main.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Terraform" alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Airflow" alt="Airflow" src="https://airbyte.com/wp-content/uploads/2021/08/Airflow-logo.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Streamlit" alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Lime Survey" alt="Lime Survey" src="https://www.limesurvey.org/images/logos/logo_main.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
 ## 📚 BIBLIOTECAS E PACOTES
 <p align="center">
-  <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Scikit-learn" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="NLTK" alt="NLTK" src="https://raw.githubusercontent.com/nltk/nltk/develop/misc/nltk-logo.png" width="50" height="50" style="margin: 12px;"/>
+  <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Scikit-learn" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="NLTK" alt="NLTK" src="https://raw.githubusercontent.com/nltk/nltk/develop/misc/nltk-logo.png" width="50" height="50" style="margin: 12px;"/>
 </p>
