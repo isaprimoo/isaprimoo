@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9400D3center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Isabela;I'm+19+years+old;applied+AI+student+PUC-PR;data analysis+internI'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9400D3&width=600&lines=Hi,+I'm+Isabela;I'm+19+years+old;Applied+AI+student+PUC-PR;Data+analysis+intern;I'm+from+Brazil;Welcome!:)](https://git.io/typing-svg)
+
 <div align="center">  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
