@@ -32,6 +32,8 @@
 
 
 <h2 align="center" style="color:#3776ab">🚀 LINGUAGENS DE PROGRAMAÇÃO</h2>
+<hr style="height:2px;border-width:0;color:#00bfbf;background-color:#00bfbf">
+
 
 <p align="center">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
