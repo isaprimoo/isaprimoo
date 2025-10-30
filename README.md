@@ -32,7 +32,7 @@
 <p align="center">
 
 
-<h2 align="center" style="color:#F1879C;">🚀 LINGUAGENS DE PROGRAMAÇÃO</h2>
+<h2 align="center" style="color:#F1879C;"> LINGUAGENS DE PROGRAMAÇÃO</h2>
 
 
 <p align="center">
@@ -40,7 +40,7 @@
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center" style="color:#F1879C;"> 🛠️ FERRAMENTAS</h2>
+<h2 align="center" style="color:#F1879C;">  FERRAMENTAS</h2>
 <p align="center">
   <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
