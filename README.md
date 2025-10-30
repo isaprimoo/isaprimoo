@@ -44,7 +44,7 @@
   <img title="Terraform" alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Airflow" alt="Airflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1200px-AirflowLogo.svg.png" width="50" height="50" style="margin: 12px;"/>
   <img title="Streamlit" alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="Lime Survey" alt="Lime Survey" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/limesurvey.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="Lime Survey" alt="Lime Survey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/limesurvey/limesurvey-original.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
 ## 📚 BIBLIOTECAS E PACOTES
@@ -52,5 +52,5 @@
   <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Scikit-learn" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="NLTK" alt="NLTK" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nltk.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="NLTK" alt="NLTK" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
