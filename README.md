@@ -1,20 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB1661&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=A31632&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Isabela.;I'm+19+years+old.;Applied+AI+student+PUC-PR.;Data+analysis+intern.;I'm+from+Brazil.)](https://git.io/typing-svg)
 
-
-
 <br>
 <br>
 
-
-
 </div>
 
 </div>
-
-
 
 
 </div>
@@ -23,14 +16,11 @@
 </div>
 
 
-
-  
 
 <br>
 </div>
 
 <p align="center">
-
 
 <h2 align="center" style="color:#F1879C;"> LINGUAGENS DE PROGRAMAÇÃO</h2>
 
@@ -40,7 +30,7 @@
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center" style="color:#F1879C;">  FERRAMENTAS</h2>
+<h2 align="center" style="color:#F1879C">  FERRAMENTAS</h2>
 <p align="center">
   <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
