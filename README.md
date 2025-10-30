@@ -45,6 +45,6 @@
 
 <h2 align="center" style="color:#F1879C;">  CONTATO:</h2>
 <h3 align="center" style="color:#F1879C;">  EMAIL: isabelaprimopereira@gmail.com</h3>
-<h3 align="center" style="color:#F1879C;">  [LINKEDIN:] ('https://www.linkedin.com/in/isabela-primo-marques-moretti-pereira')</h3>
+<h3 align="center" style="color:#F1879C;">  [LINKEDIN:](https://www.linkedin.com/in/isabela-primo-marques-moretti-pereira)</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB1661&height=120&section=footer"/>
