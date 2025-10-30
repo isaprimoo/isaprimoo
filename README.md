@@ -52,5 +52,5 @@
   <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Scikit-learn" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" style="margin: 12px;"/>
-  <img title="NLTK" alt="NLTK" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="50" height="50" style="margin: 12px;"/>
+  <img title="NLTK" alt="NLTK" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nltk.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
