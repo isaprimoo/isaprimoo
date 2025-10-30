@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9400D3center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Isabela.;I'm+19+years+old.;Applied+AI+student+PUC-PR.;Data+analysis+intern.;I'm+from+Brazil.)](https://git.io/typing-svg)
@@ -58,4 +58,4 @@
 </p>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
