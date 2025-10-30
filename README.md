@@ -31,14 +31,14 @@
 <p align="center">
 
 
-<h2 align="center">🚀 LINGUAGENS DE PROGRAMAÇÃO</h2>
+<h2 align="center" style="color:#3776ab">🚀 LINGUAGENS DE PROGRAMAÇÃO</h2>
 
 <p align="center">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center"> 🛠️ FERRAMENTAS</h2>
+<h2 align="center" style="color:#3776ab"> 🛠️ FERRAMENTAS</h2>
 <p align="center">
   <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
@@ -48,7 +48,7 @@
   <img title="Lime Survey" alt="Lime Survey" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94Lyh_GFgPNu7sYy013xd_MRf9ehl0yW-4A&s" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center"> 📚 BIBLIOTECAS E PACOTES</h2>
+<h2 align="center" style="color:#3776ab"> 📚 BIBLIOTECAS E PACOTES</h2>
 <p align="center">
   <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
