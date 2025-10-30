@@ -9,28 +9,23 @@
 
 </div>
 
-
 </div>
 
-
 </div>
-
-
 
 <br>
 </div>
 
 <p align="center">
 
-<h2 align="center" style="color:#F1879C;"> LINGUAGENS DE PROGRAMAÇÃO</h2>
-
+<h2 align="center" style="color:#F1879C;"> LINGUAGENS DE PROGRAMAÇÃO:</h2>
 
 <p align="center">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center" style="color:#F1879C">  FERRAMENTAS</h2>
+<h2 align="center" style="color:#F1879C"> FERRAMENTAS:</h2>
 <p align="center">
   <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="50" style="margin: 12px;"/>
@@ -40,7 +35,7 @@
   <img title="Lime Survey" alt="Lime Survey" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94Lyh_GFgPNu7sYy013xd_MRf9ehl0yW-4A&s" width="50" height="50" style="margin: 12px;"/>
 </p>
 
-<h2 align="center" style="color:#F1879C;"> 📚 BIBLIOTECAS E PACOTES</h2>
+<h2 align="center" style="color:#F1879C;">  BIBLIOTECAS E PACOTES:</h2>
 <p align="center">
   <img title="Plotly" alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" style="margin: 12px;"/>
   <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="margin: 12px;"/>
@@ -48,5 +43,8 @@
   <img title="NLTK" alt="NLTK" src="https://miro.medium.com/0*zKRz1UgqpOZ4bvuA" width="50" height="50" style="margin: 12px;"/>
 </p>
 
+<h2 align="center" style="color:#F1879C;">  CONTATO:</h2>
+<h3 align="center" style="color:#F1879C;">  EMAIL: isabelaprimopereira@gmail.com</h3>
+<h3 align="center" style="color:#F1879C;">  LINKEDIN: https://www.linkedin.com/in/isabela-primo-marques-moretti-pereira</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB1661&height=120&section=footer"/>
