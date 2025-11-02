@@ -34,17 +34,15 @@
 ---
 
 <div align="center">
-  
-  ## 📊 Estatísticas Dinâmicas do GitHub
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=6&theme=onedark"/>
-  
-  </div>
 
----
-
+  ### Conecte-se Comigo!
+  
+  <p>
+    <a href="[Link do seu LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="[Link do seu Instagram]"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  </p>
+  
+</div>
 <div align="center">
 
   ## 🐍 Minha Atividade Recente (Snake Animation)
