@@ -22,10 +22,10 @@
 
 <div align="center">
   
-  ## 🛠️ Minhas Habilidades (Tech Stack)
+  # LINGUAGENS DE PROGRAMAÇÃO E FERRAMENTAS:
   
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,python,gitlab,github,vscode, streamlit" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,gitlab,github,vscode" alt="Tecnologias" />
     <br>
     </p>
   
