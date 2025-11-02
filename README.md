@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&width=440&lines=Ol%C3%A1%2C+eu+sou+[Seu+Nome]!;Desenvolvedor(a)+[Sua+%C3%81rea];Bem-vindo(a)+ao+meu+perfil+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&width=440&lines=Ol%C3%A1%2C+eu+sou+[Seu+Nome]!;Desenvolvedor(a)+[Sua+%C3%81rea];Bem-vindo(a)+ao+meu+perfil+GitHub!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=A31632&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Isabela.;I'm+19+years+old.;Applied+AI+student+PUC-PR.;Data+analysis+intern.;I'm+from+Brazil." alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
   ## 🛠️ Minhas Habilidades (Tech Stack)
   
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,docker" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,gitlab,github" alt="Tecnologias" />
     <br>
     </p>
   
