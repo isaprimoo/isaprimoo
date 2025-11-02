@@ -25,7 +25,7 @@
   ## 🛠️ Minhas Habilidades (Tech Stack)
   
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,python,gitlab,github, sckitlearn, pandas, plotly" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,gitlab,github,vscode, aws" alt="Tecnologias" />
     <br>
     </p>
   
